@@ -1,8 +1,6 @@
 <br>
 <br>
 <br>
-<div style="text-align: center;font-family: 'IBM Plex Mono',sans-serif;font-size: xx-large">
-I'm god wei,hello world!</div>
 <br>
 <br>
 <br>
